@@ -61,7 +61,7 @@ author:
   bio    : "Just an average DevOps Engineer ramblings."
   links:
     - label: "YouTube"
-      icon: "fas fa-youtube"
+      icon: "fa-branhds fa-square-youtube"
       url: "https://www.youtube.com/@devopswithbrian"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
