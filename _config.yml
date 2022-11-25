@@ -17,6 +17,8 @@ title: DevOps With Brian
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about DevOps related topics like Kubernetes, CI/CD, jenkins, terraform, python, and more.
+
+google-site-verification: "D9gM0vRfpbZlEZRdfbukp9v8zXbDp-GRBsQ2IHvDIPU"
 #twitter_username: username
 github_username: Devops-With-Brian
 minimal_mistakes_skin: default
