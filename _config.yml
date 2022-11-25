@@ -30,7 +30,7 @@ comments:
     shortname: "devops-with-brian"
 
 analytics:
-  provider: "google"
+  provider: "google-universal"
   google:
     tracking_id: "G-LLPRJVGS02"
     anonymize_ip: false
