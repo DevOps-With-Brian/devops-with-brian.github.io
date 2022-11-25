@@ -1,12 +1,16 @@
 ---
 title: "New Video Series - Terraform Kubernetes Personal Cluster $40 a month"
-date: 2022-11-23
+date: 2022-11-25
 categories:
   - blog
   - devops
   - terraform
   - youtube
   - kubernetes
+  - iac
+  - Infrastructure As Code
+  - Linode
+  
 ---
 
 We are launching a new video series today that consists of setting up a [Linode](https://www.linode.com/) LKE or Kubernetes cluster on a 3 shared node setup with a NGINX ingress using a Linode NodeBalancer for $40 a month.
@@ -21,4 +25,13 @@ In the final part of this using our custom domain we will be using cert-manager 
 
 The cookiecutter template used in the video series can be found here, [Cookie Cutter Template](https://github.com/DevOps-With-Brian/cookiecutter-linode-tf-lke).
 
-Please go check out my new [YouTube Channel](https://www.youtube.com/@devopswithbrian) and subscribe and check out this new video series coming soon.
+If you chat with the chat widget on this website you can see a live demo of this running in kubernetes actually.  The bot is basic atm but will be updated shortly.
+
+Part 1 of the video series can be found by clicking the thumbnail below:
+
+[![How To Build Linode Kubernetes Cluster for $40 A Month With Terraform - Part 1](/assets/images/linode-tf-part-1.png)](https://youtu.be/2cCxEcvPh8c)
+
+
+Part 2 of the video series can be found by clicking the thumbnail below:
+
+[![How To Build Linode Kubernetes Cluster for $40 A Month With Terraform - Part 2](/assets/images/linode-tf-part-2.png)](https://youtu.be/5Nst9erhfH8)
