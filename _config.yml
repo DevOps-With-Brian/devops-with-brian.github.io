@@ -22,6 +22,12 @@ github_username: Devops-With-Brian
 minimal_mistakes_skin: default
 search: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-LLPRJVGS02"
+    anonymize_ip: false
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
