@@ -28,7 +28,7 @@ comments:
     shortname: "devops-with-brian"
 
 analytics:
-  provider: "google-gtag"
+  provider: "google-universal"
   google:
     tracking_id: "G-LLPRJVGS02"
     anonymize_ip: false
