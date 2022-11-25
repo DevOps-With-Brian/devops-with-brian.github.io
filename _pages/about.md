@@ -14,3 +14,13 @@ I hope to be able to do videos to help others learn and understand how things wo
 I also love Jeeps and Offroading and Camping, here is a recent pic of me and the Jeep.
 
 ![Brian With Jeep](/assets/images/brian-with-jeep.jpg)
+
+<div
+    id="rasa-chat-widget"
+    data-avatar-background="rgba(255, 255, 255, 0)"
+    data-avatar-url="https://avatars.githubusercontent.com/u/115162917?s=200&v=4"
+    data-root-element-id="storybook-preview-wrapper"
+    data-websocket-url="https://rasa.devopswithbrian.com/"
+    id="rasa-chat-widget"
+></div>
+<script src="https://unpkg.com/@rasahq/rasa-chat" type="application/javascript"></script>
