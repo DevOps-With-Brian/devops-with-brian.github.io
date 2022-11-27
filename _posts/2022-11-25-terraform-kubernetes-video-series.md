@@ -10,6 +10,11 @@ categories:
   - iac
   - Infrastructure As Code
   - Linode
+tags:
+  - tutorial
+  - kubernetes
+  - terraform
+  - IaC
   
 ---
 

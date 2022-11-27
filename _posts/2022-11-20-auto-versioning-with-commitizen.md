@@ -7,6 +7,12 @@ categories:
   - commitizen
   - conventional commits
   - auto versioning
+tags:
+  - devops
+  - how-to
+  - tutorial
+  - versioning
+  - conventional commits
 toc: true
 ---
 
