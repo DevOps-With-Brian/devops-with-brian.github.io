@@ -67,6 +67,8 @@ This will bump the version if the commits call for it and also update the `CHANG
 
 We can then just do a `git push origin XXX` where XXX is your branch and push our updates, since it did the version bump for us it will generate the commit and add files.
 
+We also need to do `git push --tags` to push our tags we created.
+
 ![CZ Bump](/assets/images/cz_bump_push.gif)
 
 # Updating Versions In Other Files
@@ -172,3 +174,5 @@ Typical process would be to validate commit message on PR is a valid conventiona
 Hopefully this small tutorial helped and you can look at [Chatbot Auto Version Example](https://github.com/DevOps-With-Brian/chatbot-auto-versioning) by looking at the `.github/workflows` dir.  You can see in the `build-train-pr.yml` how we validate the commit message.
 
 In the `bump_version.yml` you can see how the version is bumped and is then used to version our artifact model file.
+
+So the final steps as you use this and update code are basically to update your files, perform a `cz c` to commit the files and commit message, then run `cz bump --changelog` to generate the changelog and versions.  Then simply push your code up along with tags by doing `git push origin HEAD` and `git push --tags`.
