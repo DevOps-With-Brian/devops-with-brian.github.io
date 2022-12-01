@@ -18,7 +18,7 @@ tags:
   
 ---
 
-We are launching a new video series today that consists of setting up a [Linode](https://www.linode.com/) LKE or Kubernetes cluster on a 3 shared node setup with a NGINX ingress using a Linode NodeBalancer for $40 a month.
+We are launching a new video series today that consists of setting up a [Linode](https://www.linode.com/lp/refer/?r=24202434814cd6f94325c26c8a78803a931bed0f) LKE or Kubernetes cluster on a 3 shared node setup with a NGINX ingress using a Linode NodeBalancer for $40 a month.
 
 In this tutorial series you will learn how to use [Terraform](https://www.terraform.io/) to deploy the cluster as well as use [Terraform Cloud](https://app.terraform.io/signup/account) to manage our remote state in Terraform for free.
 
